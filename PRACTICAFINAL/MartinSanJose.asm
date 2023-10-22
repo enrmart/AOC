@@ -1,4 +1,4 @@
-#Esta practica ha sido desarrollada por Martin Calvo,Enrique y San Jose Dominguez,Fernando
+
 .data
 .align 2
 Ec_1:.space 20
